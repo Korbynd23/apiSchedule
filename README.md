@@ -19,7 +19,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Link to deploy application: 
+Link to deploy application: https://korbynd23.github.io/apiSchedule/
 
 
 ---
