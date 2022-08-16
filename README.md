@@ -18,3 +18,37 @@ THEN the text for that event is saved in local storage
 
 WHEN I refresh the page
 THEN the saved events persist
+
+Link to deploy application: 
+
+
+---
+
+
+## Table of Contents
+
+- [Description](#descritption)
+- [How to Use](#how-to-use) 
+- [Refrences](#references)
+- [Licenses](#license)
+- [Author Info](#Author-Info)
+
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## How To Use
+
+
+### Installation
+
+
+## References
+
+
+## License
+
+MIT License
